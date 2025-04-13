@@ -3,7 +3,7 @@
   <tr>
     <td valign="top">
 
-# 👋 Hello there! I'm [Your Name]
+# 👋 Hello there! I'm FENNICH Soufiane
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=AI+Enthusiast+%7C+Full+Stack+Developer+%7C+Open+Source+Lover" alt="Typing SVG" />
 
