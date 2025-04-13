@@ -35,8 +35,15 @@
 
 ## 🧠 About Me
 
-I'm a curious and motivated AI Master's student who loves building things that make people's lives easier.  
-When I’m not coding, I enjoy learning about machine learning, automation, and tech trends.
+I'm a passionate **Full Stack Developer** with a strong background in **PHP** and **JavaScript**.  
+I love turning ideas into real-world applications using modern frameworks like **Laravel**, **Node.js**, **React**, and **Vue.js**.
+
+Currently, I'm pursuing a Master's degree in **Artificial Intelligence**, where I'm deepening my knowledge in machine learning, data science, and intelligent systems.  
+
+My goal is to become a skilled **AI Developer** — blending my full-stack experience with cutting-edge AI to build smarter, more intuitive applications that solve real problems.
+
+I’m always excited to learn, build, and collaborate on innovative projects 🚀
+
 
 ---
 
