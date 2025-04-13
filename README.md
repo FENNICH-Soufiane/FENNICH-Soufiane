@@ -17,10 +17,10 @@
 
 ### 📫 Connect with me
 
-<a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+<a href="https://www.linkedin.com/in/soufiane-fennich-a9aba418b/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:your.email@gmail.com" target="_blank">
+<a href="mailto:fennich.soufiane.fs@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
