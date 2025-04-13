@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hello there! I'm [Your Name]
+# 👋 Hello there! I'm FENNICH Soufiane
 
 🎓 I'm a Master's student specializing in **Artificial Intelligence**, passionate about building smart and scalable web applications.
 
