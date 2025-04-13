@@ -65,21 +65,5 @@ When I’m not coding, I enjoy learning about machine learning, automation, and 
 
 ---
 
-## 📂 Featured Projects
-
-- 🔐 [Authentication System with Node.js & JWT](https://github.com/your-username/your-auth-project)  
-- 🛒 [E-commerce app with Laravel & Vue.js](https://github.com/your-username/ecommerce-laravel-vue)  
-- 📊 [AI-powered Dashboard using React](https://github.com/your-username/ai-dashboard)
-
----
-
-## 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
 
 _Thanks for visiting my profile! Feel free to check out my projects and connect with me._
