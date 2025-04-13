@@ -1,53 +1,28 @@
-## Hi there 👋
-
-<!--
-**FENNICH-Soufiane/FENNICH-Soufiane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 👋 Hello there! I'm FENNICH Soufiane
-
-🎓 I'm a Master's student specializing in **Artificial Intelligence**, passionate about building smart and scalable web applications.
-
-## 💼 Tech Stack
-
-Here are some of the technologies I work with:
-
-- **Backend**: Node.js, Express.js, Laravel (PHP)
-- **Frontend**: React.js, Vue.js, Angular
-- **Others**: REST APIs, Git & GitHub, MongoDB, MySQL
-
-## 🚀 About Me
-
-- 🔭 Currently pursuing a Master's in Artificial Intelligence
-- 🌱 Learning advanced Machine Learning and Deep Learning techniques
-- 💡 Interested in building AI-powered applications for real-world problems
-- 🤝 Open to collaboration on AI, web development, and open source projects
-
-## 📫 Get in touch
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- 📧 [Gmail](mailto:your.email@gmail.com)
-
----
-
-<!-- Banner -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/91545870/196038125-2ee5c0c6-92b7-4da6-8d1b-bf2f8b3fdfd5.gif" alt="AI Developer Banner" width="100%" />
-</p>
-
+<!-- Header layout with text on the left and illustration on the right -->
+<table>
+  <tr>
+    <td valign="top">
+      
 # 👋 Hello there! I'm [Your Name]
 
 🎓 I'm a Master's student specializing in **Artificial Intelligence**, passionate about building smart and scalable web applications.
+
+- 🔭 Currently pursuing a Master's in AI  
+- 💻 Full-stack web developer  
+- 🚀 Passionate about AI, automation, and open source  
+- 🤝 Open to collaborations and freelance missions  
+
+📫 **Contact me**  
+[LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) • [Gmail](mailto:your.email@gmail.com)
+
+   </td>
+   <td>
+     <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="250px" />
+   </td>
+  </tr>
+</table>
+
+---
 
 ## 💼 Tech Stack
 
@@ -72,26 +47,6 @@ Here are some of the technologies I work with:
   <img src="https://img.shields.io/badge/REST%20API-000000?style=for-the-badge&logo=flask&logoColor=white" />
 </p>
 
-## 📚 About Me
-
-- 🔭 Currently pursuing a Master's in Artificial Intelligence  
-- 🌱 Learning advanced Machine Learning and Deep Learning techniques  
-- 💡 Interested in building AI-powered applications for real-world problems  
-- 🤝 Open to collaboration on AI, web development, and open source projects  
-
-## 📫 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- 📧 [Gmail](mailto:your.email@gmail.com)
-
 ---
-
-<!-- Illustration at the bottom -->
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400px" alt="Coding illustration" />
-</p>
-
-_Thanks for visiting my profile! Feel free to check out my projects and connect with me._
-
 
 _Thanks for visiting my profile! Feel free to check out my projects and connect with me._
