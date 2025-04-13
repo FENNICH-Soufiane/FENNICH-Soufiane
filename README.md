@@ -24,6 +24,12 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
+### 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soufiane-fennich-a9aba418b/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fennich.soufiane.fs@gmail.com)
+
+
 </td>
 <td>
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="250px" />
